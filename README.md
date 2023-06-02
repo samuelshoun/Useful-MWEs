@@ -1,4 +1,4 @@
-# useful_MWAs
+# Useful MWAs
 
 This is a collection of minimal working examples (MWA), each example a component of some solution I've 
 found useful in various engineering tasks. I use these to remind myself how to get these methods to work
