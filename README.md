@@ -1,4 +1,4 @@
-# Useful MWAs
+# Useful MWEs
 
 This is a collection of Minimal Working Examples (MWE), each example a component of some solution I've 
 found useful in various engineering tasks. I use these to remind myself how to get these methods to work
